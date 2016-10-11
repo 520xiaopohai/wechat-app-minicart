@@ -15,20 +15,25 @@
 
 
 
-<!--## Demo 预览
+## Demo 预览
 
 <p align="center">
-  <img src="./files/preview.gif" alt="豆瓣电影演示" width="100%">
+  <img src="./files/home.png" alt="首页演示" width="100%">
 </p>
 
-[演示视频（流量预警 2.64MB）](https://github.com/zce/weapp-demo/blob/master/files/preview.mp4)-->
+<p align="center">
+  <img src="./files/home2.png" alt="首页演示" width="100%">
+</p>
+
+<p align="center">
+  <img src="./files/shop.png" alt="购物车" width="100%">
+</p>
 
 ## 可能有刚入门的同学
 
 
 不会弄，加我微信聊
-
-
+xiaopohai0
 ## 有问题？
 
 ### Welcome PR or Issue or Wechat
@@ -62,21 +67,13 @@
   - AppID：点击右下角`无AppID`（我也没有资格，据说这次200个名额是小龙钦点的）
   - 项目名称：随便填写，因为不涉及到部署，所以无所谓
   - 项目目录：选择刚刚克隆的文件夹
-  - 点击`添加项目`
+  - 点击`添加项目
 
-  ![添加项目](./files/add-proj.png)
 
-4. 新年快乐，恭喜发财
 
-  ![项目预览](./files/main-view.png)
+4. 通过左下角重启按钮，刷新编码过后的预览
 
-5. 你可以选择在`微信Web开放者工具`中编码（也可选择你喜欢的编辑器）
-
-  ![编码功能](./files/coding.png)
-
-6. 通过左下角重启按钮，刷新编码过后的预览
-
-7. 可以通过在项目目录下执行以下命令快速创建新页面组件所需文件：
+5. 可以通过在项目目录下执行以下命令快速创建新页面组件所需文件：
 
   ```bash
   # `Bash`用户
@@ -85,7 +82,7 @@
   $ .\generate <new-page-name>
   ```
 
-8. 剩下的可以自由发挥了
+6. 剩下的可以自由发挥了
 
 
 ## 微信小程序基本教程（持续更新）
