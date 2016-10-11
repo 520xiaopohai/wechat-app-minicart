@@ -49,8 +49,7 @@ xiaopohai0
 1. 将仓库克隆到本地：
 
   ```bash
-  $ git clone https://github.com/zce/weapp-demo.git weapp-douban --depth 1
-  $ cd weapp-douban
+
   ```
 
 2. 打开`微信Web开放者工具`（注意：必须是`0.9.092300`版本）
