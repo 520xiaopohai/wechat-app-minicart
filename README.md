@@ -18,15 +18,15 @@
 ## Demo 预览
 
 <p align="center">
-  <img src="./files/home.png" alt="首页演示" width="100%">
+  <img src="./files/home.png" alt="首页演示" width="200px">
 </p>
 
 <p align="center">
-  <img src="./files/home2.png" alt="首页演示" width="100%">
+  <img src="./files/home2.png" alt="首页演示" width="200px">
 </p>
 
 <p align="center">
-  <img src="./files/shop.png" alt="购物车" width="100%">
+  <img src="./files/shop.png" alt="购物车" width="200px">
 </p>
 
 ## 可能有刚入门的同学
