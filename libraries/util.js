@@ -10,9 +10,8 @@ function json2Str(jsonObj){
     return '{' + arr.join(',') + '}';
 }
 
-function fullRequestBody(requestObj,usrObj){
-
-    if(!usrObj){
+function fullRequestBody(requestObj,userObj){
+    if(!userObj){
         userObj = {
             loginName : "",
             password : "",

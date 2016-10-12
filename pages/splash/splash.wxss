@@ -1,10 +1,10 @@
-swiper {
+/*swiper {
   flex: 1;
 }
 
 swiper-item {
   flex: 1;
-}
+}*/
 
 swiper-item image {
   position: absolute;
