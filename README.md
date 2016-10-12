@@ -52,14 +52,10 @@ xiaopohai0
 git clone https://github.com/520xiaopohai/wechat-app-minicart.git
   ```
 
-2. 打开`微信Web开放者工具`（注意：必须是`0.9.092300`版本）
+2. 打开`微信Web开放者工具`（最新版）
 
-  - 必须是`0.9.092300`版本，之前的版本不能保证正常运行
-  - 不需要所谓的破解，网上所谓的破解只是针对之前的`0.9.092100`版本，新的官方版本不需要破解，不需要破解，不需要破解！
-  - 下载链接（官方版本，放心下载）：https://pan.baidu.com/s/1qYld6Vi
-    * `wechat_web_devtools_0.9.092300_x64.exe`（Windows 64位）
-    * `wechat_web_devtools_0.9.092300_ia32.exe`（Windows 32位）
-    * `wechat_web_devtools_0.9.092300.dmg`（macOS）
+  - 下载链接（官方版本，放心下载）：https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1476197490095
+  
 
 3. 选择`添加项目`，填写或选择相应信息
 
